@@ -1,0 +1,5 @@
+1001<>Roger Federer<>2016/10/2<>2059.0
+1002<>Venus Williams<>2016/10/5<>33400.05
+1003<>Novak Djokovicz<>2016/10/9<>1496.04
+1004<>Maria Sharapova<>2016/10/15<>1419.62
+1005<>Gabriela Sabatini<>2016/10/12<>2946.11
