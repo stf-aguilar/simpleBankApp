@@ -1,1 +1,1 @@
-web: java -jar ./bank.jar
+web: java -jar bank.jar
