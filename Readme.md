@@ -1,6 +1,4 @@
-#Simple Bank App
-
-### Instalación
+### Simple Bank App!
 
 Luego de haber clonado este repositorio, correr en la terminal:
 
